@@ -10,7 +10,8 @@
     "@babel/cli": "^7.10.3",
     "@babel/core": "^7.10.3",
     "babel-preset-gatsby-package": "^0.5.2",
-    "cross-env": "^5.2.1"
+    "cross-env": "^5.2.1",
+    "yalc-watch": "0.0.6"
   },
   "keywords": [
     "gatsby",
@@ -31,9 +32,6 @@
   },
   "engines": {
     "node": ">=10.13.0"
-  },
-  "devDependencies": {
-    "yalc-watch": "0.0.6"
   },
   "yalcWatch": {
     "watchFolder": "lib",
