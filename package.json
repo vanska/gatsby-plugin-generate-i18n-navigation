@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-generate-i18n-navigation",
   "description": "Generate i18n navigation from site config JSON",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Mikko Vänskä <mikkovanska.com@gmail.com>",
   "dependencies": {
     "@babel/runtime": "^7.10.3"
